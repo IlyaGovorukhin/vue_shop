@@ -1,0 +1,29 @@
+.cart, .hoverItem-item {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 0 8px 0 #e0e0e0;
+  min-height: 100px;
+  padding: 0 32px;
+}
+.product, .item, .list_wrapper, .listitem {
+  &-link {
+    position: absolute;
+    border: solid 1px #aeaeae;
+    padding: 5px;
+    cursor: pointer;
+  }
+}
+.product, .item, .listitem {
+  &-link {
+    top: 50px;
+    right: 100px;
+  }}
+.list_wrapper{
+  &-link {
+    top:0;
+    right: 0px;
+
+  }
+}

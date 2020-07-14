@@ -1,0 +1,49 @@
+{
+  "data": [
+  {
+    "name": "Товар 1",
+    "price": 100,
+    "article": "001"
+  },
+    {
+      "name": "Товар 2",
+      "price": 200,
+      "article": "002"
+    },
+    {
+      "name": "Товар 3",
+      "price": 300,
+      "article": "003"
+    },
+    {
+      "name": "Товар 4",
+      "price": 400,
+      "article": "004"
+    },
+    {
+      "name": "Товар 5",
+      "price": 100,
+      "article": "005"
+    },
+    {
+      "name": "Товар 6",
+      "price": 200,
+      "article": "006"
+    },
+    {
+      "name": "Товар 7",
+      "price": 300,
+      "article": "007"
+    },
+    {
+      "name": "Товар 8",
+      "price": 400,
+      "article": "008"
+    },
+    {
+      "name": "Товар 9",
+      "price": 500,
+      "article": "009"
+    }
+  ]
+}

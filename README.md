@@ -1,8 +1,16 @@
 # new_shop
+## install  global json-server
+```
+yarn global add json-server
+```
 
 ## Project setup
 ```
 yarn install
+```
+## start json server
+```
+yarn json
 ```
 
 ### Compiles and hot-reloads for development
